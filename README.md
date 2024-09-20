@@ -4,5 +4,5 @@
 
 - 🔭 I have a keen keen interest in java,kotlin,javascript,SQL,React.js.
 
-- 🌱 I’m currently learning kotlin,SQL,
+- 🌱 I’m currently learning kotlin,SQL
   
