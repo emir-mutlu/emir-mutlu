@@ -1,14 +1,14 @@
-👋 Merhaba, ben Emir! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+👋 Hi, I'm Emir! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/emir-mutlu-9bb136254/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-Ben Emir Mutlu, Dokuz Eylül Üniversitesi Bilgisayar Bilimleri öğrencisiyim ve Full Stack Web Geliştirme alanında kendimi tutkuyla geliştiriyorum. Modern, ölçeklenebilir ve kullanıcı dostu web uygulamaları oluşturmaya odaklandım. Son zamanlarda ise blockchain ve Web3 teknolojilerinin potansiyelini keşfederek bu alandaki yeteneklerimi geliştiriyorum.
+I'm Emir Mutlu, a Computer Science student at Dokuz Eylül University, passionately developing my skills in Full Stack Web Development. I am focused on building modern, scalable, and user-friendly web applications. Recently, I have been exploring the potential of blockchain and Web3 technologies to enhance my skillset.
 
-Hedefim, yenilikçi projelere katkıda bulunmak ve sürekli öğrenerek teknolojinin sınırlarını zorlamak. 🚀
+My goal is to contribute to innovative projects and push the boundaries of technology through continuous learning. 🚀
 
-🚀 Teknolojiler ve Araçlar
+🚀 Technologies & Tools
 
 Frontend
 
@@ -28,7 +28,7 @@ Backend
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
 </p>
 
-Veritabanı
+Database
 
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -36,28 +36,28 @@ Veritabanı
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 </p>
 
+Tools & Platforms
 
-**Araçlar ve Platformlar**
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
-  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
+<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode"/>
 </p>
 
 Web3 & Blockchain
 
 <ul>
-<li>Blockchain Temelleri</li>
-<li>Token (Token Contract) Geliştirme</li>
-<li>NFT Minting, Satın Alma ve Satma Mantığı</li>
-<li>Internet Computer (ICP) üzerinde Geliştirme</li>
+<li>Blockchain Fundamentals</li>
+<li>Token (Token Contract) Development</li>
+<li>NFT Minting, Buying, and Selling Logic</li>
+<li>Development on the Internet Computer (ICP)</li>
 </ul>
-📊 GitHub İstatistiklerim
 
+📊 My GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emir-mutlu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emir-mutlu&layout=compact&langs_count=8&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=emir-mutlu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emir-mutlu&layout=compact&langs_count=8&theme=dracula"/>
 </p>
