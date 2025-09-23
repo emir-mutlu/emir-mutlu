@@ -8,9 +8,11 @@ I'm Emir Mutlu, a Computer Science student at Dokuz Eylül University, passionat
 
 My goal is to contribute to innovative projects and push the boundaries of technology through continuous learning. 🚀
 
-🚀 Technologies & Tools
+---
 
-Frontend
+### 🚀 Technologies & Tools
+
+**Frontend**
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -21,14 +23,14 @@ Frontend
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
 </p>
 
-Backend
+**Backend**
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
 </p>
 
-Database
+**Database**
 
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -36,7 +38,7 @@ Database
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 </p>
 
-Tools & Platforms
+**Tools & Platforms**
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -46,7 +48,7 @@ Tools & Platforms
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode"/>
 </p>
 
-Web3 & Blockchain
+**Web3 & Blockchain**
 
 <ul>
 <li>Blockchain Fundamentals</li>
@@ -55,9 +57,11 @@ Web3 & Blockchain
 <li>Development on the Internet Computer (ICP)</li>
 </ul>
 
-📊 My GitHub Stats
+---
+
+### 📊 My GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=emir-mutlu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=emir-mutlu&show_icons=true&theme=dracula&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emir-mutlu&layout=compact&langs_count=8&theme=dracula"/>
 </p>
