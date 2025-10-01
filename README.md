@@ -1,10 +1,14 @@
-👋 Hi, I'm Emir! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<div align="center">
+  <h1 align="center">Hi, I'm Emir Mutlu 👋</h1>
+</div>
 
-<a href="https://www.linkedin.com/in/emir-mutlu-9bb136254/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/emir-mutlu-9bb136254/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
-I'm Emir Mutlu, a Computer Science student at Dokuz Eylül University, passionately developing my skills in Full Stack Web Development. I am focused on building modern, scalable, and user-friendly web applications. Recently, I have been exploring the potential of blockchain and Web3 technologies to enhance my skillset.
+I'm a Computer Science student at Dokuz Eylül University, passionately developing my skills in Full Stack Web Development. I am focused on building modern, scalable, and user-friendly web applications. Recently, I have been exploring the potential of blockchain and Web3 technologies to enhance my skillset.
 
 My goal is to contribute to innovative projects and push the boundaries of technology through continuous learning. 🚀
 
