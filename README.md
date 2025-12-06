@@ -30,7 +30,6 @@ My goal is to contribute to innovative projects and push the boundaries of techn
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=61DAFB&center=true&vCenter=true&width=500&lines=%3C%2F%3E+Technologies+%26+Tools+%3C%2F%3E" alt="Technologies and Tools" />
 </h2>
 
-<!-- Frontend -->
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -43,14 +42,12 @@ My goal is to contribute to innovative projects and push the boundaries of techn
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
 </p>
 
-<!-- Backend -->
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   
 </p>
 
-<!-- Database -->
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -58,7 +55,6 @@ My goal is to contribute to innovative projects and push the boundaries of techn
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
-<!-- Tools & Platforms -->
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -81,9 +77,9 @@ My goal is to contribute to innovative projects and push the boundaries of techn
 
 ---
 
-### 📊 My GitHub Stats
+<h3 align="center">📊 My GitHub Stats</h3>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emir-mutlu&show_icons=true&theme=dracula&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emir-mutlu&layout=compact&langs_count=8&theme=dracula" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=emir-mutlu&show_icons=true&theme=dracula" alt="Emir Mutlu Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emir-mutlu&layout=compact&langs_count=8&theme=dracula" alt="Emir Mutlu Top Langs" />
 </p>
