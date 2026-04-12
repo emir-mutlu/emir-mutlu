@@ -68,16 +68,14 @@ My goal is to contribute to innovative projects and push the boundaries of techn
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
 </p>
 
+
 ---
+
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=emir-mutlu&show_icons=true&v=2" alt="Emir's GitHub Stats" />
-</p>
+![Emir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emir-mutlu&show_icons=true&theme=dark&hide_border=true)
 
 ### 🌐 Most Used Languages
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emir-mutlu&v=2" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emir-mutlu&layout=compact&theme=dark&hide_border=true)
