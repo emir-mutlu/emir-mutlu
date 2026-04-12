@@ -74,8 +74,12 @@ My goal is to contribute to innovative projects and push the boundaries of techn
 
 ### 📊 GitHub Stats
 
-![Emir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emir-mutlu&show_icons=true&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=emir-mutlu&show_icons=true&theme=tokyonight" alt="Emir's GitHub Stats" />
+</p>
 
 ### 🌐 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emir-mutlu&layout=compact&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emir-mutlu&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
