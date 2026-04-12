@@ -74,9 +74,6 @@ My goal is to contribute to innovative projects and push the boundaries of techn
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=emir-mutlu&show_icons=true&theme=dracula&count_private=true" />
-
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=emir-mutlu&layout=compact&langs_count=8&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emir-mutlu&show_icons=true&theme=dracula&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emir-mutlu&layout=compact&langs_count=8&theme=dracula" height="180" />
 </p>
