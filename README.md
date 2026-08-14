@@ -30,7 +30,10 @@ My goal is to contribute to innovative projects and push the boundaries of techn
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=61DAFB&center=true&vCenter=true&width=500&lines=%3C%2F%3E+Technologies+%26+Tools+%3C%2F%3E" alt="Technologies and Tools" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=61DAFB&center=true&vCenter=true&width=500&lines=%3C%2F%3E+Technologies+%26+Tools+%3C%2F%3E"
+    alt="Technologies and Tools"
+  />
 </h2>
 
 <p align="center">
@@ -68,11 +71,12 @@ My goal is to contribute to innovative projects and push the boundaries of techn
 </p>
 
 ---
+
 ### 📊 GitHub Stats
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=emir-mutlu&show_icons=true&theme=tokyonight"
+    src="./profile/stats.svg"
     alt="Emir's GitHub Stats"
   />
 </p>
@@ -81,7 +85,7 @@ My goal is to contribute to innovative projects and push the boundaries of techn
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=emir-mutlu&layout=compact&theme=tokyonight"
+    src="./profile/top-langs.svg"
     alt="Top Languages"
   />
 </p>
