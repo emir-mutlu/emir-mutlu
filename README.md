@@ -6,26 +6,40 @@
 
   <p align="center">
     <img
-      src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full+Stack+Web+Development+Enthusiast;Always+Learning+New+Technologies"
+      src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;AI+Developer;Computer+Science+Student;Always+Learning+New+Technologies"
       alt="Typing SVG"
     />
   </p>
 
   <p align="center">
+    <a href="https://www.emirmutlu.com/" target="_blank">
+      <img
+        src="https://img.shields.io/badge/Portfolio-emirmutlu.com-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white"
+        alt="Portfolio"
+      />
+    </a>
     <a href="https://github.com/emir-mutlu" target="_blank">
-      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+      <img
+        src="https://img.shields.io/badge/GitHub-emir--mutlu-181717?style=for-the-badge&logo=github&logoColor=white"
+        alt="GitHub"
+      />
     </a>
     <a href="https://www.linkedin.com/in/emir-mutlu-9bb136254/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+      <img
+        src="https://img.shields.io/badge/LinkedIn-Emir%20Mutlu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        alt="LinkedIn"
+      />
     </a>
   </p>
 </div>
 
-I'm a Computer Science student at Dokuz Eylül University, developing my skills in Full Stack Web Development.  
-I focus on building modern, scalable and user-friendly web applications using JavaScript/TypeScript, Node.js and React.
+I'm a **Computer Science student at Dokuz Eylül University** and a **Full Stack Web Developer** with an interest in **AI-driven software development**.
 
-Recently, I have been exploring the potential of blockchain and Web3 technologies to enhance my skillset.  
-My goal is to contribute to innovative projects and push the boundaries of technology through continuous learning.
+I focus on building modern, scalable and user-friendly web applications using technologies such as **JavaScript, TypeScript, React and Node.js**.
+
+Alongside web development, I'm exploring **Artificial Intelligence, LLM-based applications and AI-powered software systems** while continuously improving my software engineering and problem-solving skills.
+
+🌐 **Portfolio:** [www.emirmutlu.com](https://www.emirmutlu.com/)
 
 ---
 
@@ -77,7 +91,7 @@ My goal is to contribute to innovative projects and push the boundaries of techn
 <p align="center">
   <img
     src="./profile/stats.svg"
-    alt="Emir's GitHub Stats"
+    alt="Emir Mutlu GitHub Stats"
   />
 </p>
 
@@ -86,6 +100,6 @@ My goal is to contribute to innovative projects and push the boundaries of techn
 <p align="center">
   <img
     src="./profile/top-langs.svg"
-    alt="Top Languages"
+    alt="Emir Mutlu Most Used Languages"
   />
 </p>
