@@ -12,9 +12,14 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/emir-mutlu" target="_blank">
-      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-    </a>
+    <a href="https://www.emirmutlu.com/" target="_blank">
+    <img
+      src="https://img.icons8.com/fluency/48/domain.png"
+      width="48"
+      height="48"
+      alt="Emir Mutlu Portfolio Website"
+    />
+  </a>
     <a href="https://www.linkedin.com/in/emir-mutlu-9bb136254/" target="_blank">
       <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
     </a>
