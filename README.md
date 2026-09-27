@@ -12,11 +12,24 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/emir-mutlu" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  <a href="https://www.emirmutlu.com/">
+    <img
+      src="./profile/portfolio.svg"
+      width="48"
+      height="48"
+      alt="Emir Mutlu Portfolio"
+    />
   </a>
-  <a href="https://www.linkedin.com/in/emir-mutlu-9bb136254/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/emir-mutlu-9bb136254/">
+    <img
+      src="https://skillicons.dev/icons?i=linkedin"
+      width="48"
+      height="48"
+      alt="LinkedIn"
+    />
+  </a>
+</p>
 </div>
 
 ## 👨‍💻 About Me
@@ -32,10 +45,6 @@ My main stack includes **JavaScript, TypeScript, React and Node.js**, and I’m 
 - Exploring AI and LLM-powered software
 - Improving software architecture and problem-solving skills
 - Developing real-world projects and production-ready systems
-
-### 🌐 Explore My Work
-
-
 
 ---
 
