@@ -14,7 +14,7 @@
   <p align="center">
   <a href="https://www.emirmutlu.com/">
     <img
-      src="./profile/portfolio.svg"
+      src="./profile/portfolio-em.svg"
       width="48"
       height="48"
       alt="Emir Mutlu Portfolio"
