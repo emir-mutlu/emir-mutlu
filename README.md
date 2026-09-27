@@ -19,14 +19,30 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </div>
 
-I'm **Emir Mutlu**, a **Full Stack Web Developer**, **AI Developer** and **Computer Science student at Dokuz Eylül University**.
+## 👨‍💻 About Me
 
-I build modern, scalable and user-friendly web applications using technologies such as **JavaScript, TypeScript, React and Node.js**.
+Hi, I'm **Emir Mutlu** — a **Full Stack Web Developer**, **AI Developer**, and **Computer Science student at Dokuz Eylül University**.
 
-I'm also exploring **Artificial Intelligence, LLM-based applications and AI-powered software systems**, with a focus on combining modern web development with intelligent software.
+I enjoy turning ideas into modern, scalable and user-focused applications.  
+My main stack includes **JavaScript, TypeScript, React and Node.js**, and I’m also expanding into **AI-powered applications, LLM-based systems and intelligent software development**.
 
-🌐 **Personal Portfolio:** [www.emirmutlu.com](https://www.emirmutlu.com/)
+### 🚀 What I’m focused on
 
+- Building modern full-stack web applications
+- Exploring AI and LLM-powered software
+- Improving software architecture and problem-solving skills
+- Developing real-world projects and production-ready systems
+
+### 🌐 Explore My Work
+
+<p align="left">
+  <a href="https://www.emirmutlu.com/">
+    <img
+      src="https://img.shields.io/badge/Visit%20My%20Portfolio-www.emirmutlu.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Emir Mutlu Portfolio"
+    />
+  </a>
+</p>
 
 ---
 
