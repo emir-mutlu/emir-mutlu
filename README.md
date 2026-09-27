@@ -12,19 +12,11 @@
   </p>
 
   <p align="center">
-    <a href="https://www.emirmutlu.com/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Portfolio-emirmutlu.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"
-      alt="Portfolio Website"
-    />
+    <a href="https://github.com/emir-mutlu" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
-
   <a href="https://www.linkedin.com/in/emir-mutlu-9bb136254/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Emir%20Mutlu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </div>
 
 I'm **Emir Mutlu**, a **Full Stack Web Developer**, **AI Developer** and **Computer Science student at Dokuz Eylül University**.
