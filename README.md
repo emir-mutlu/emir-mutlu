@@ -35,14 +35,7 @@ My main stack includes **JavaScript, TypeScript, React and Node.js**, and I’m 
 
 ### 🌐 Explore My Work
 
-<p align="left">
-  <a href="https://www.emirmutlu.com/">
-    <img
-      src="https://img.shields.io/badge/Visit%20My%20Portfolio-www.emirmutlu.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"
-      alt="Emir Mutlu Portfolio"
-    />
-  </a>
-</p>
+
 
 ---
 
