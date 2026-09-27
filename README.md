@@ -14,23 +14,27 @@
   <p align="center">
     <a href="https://www.emirmutlu.com/" target="_blank">
     <img
-      src="https://img.icons8.com/fluency/48/domain.png"
-      width="48"
-      height="48"
-      alt="Emir Mutlu Portfolio Website"
+      src="https://img.shields.io/badge/Portfolio-emirmutlu.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Portfolio Website"
     />
   </a>
-    <a href="https://www.linkedin.com/in/emir-mutlu-9bb136254/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-    </a>
-  </p>
+
+  <a href="https://www.linkedin.com/in/emir-mutlu-9bb136254/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Emir%20Mutlu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
 </div>
 
-I'm a Computer Science student at Dokuz Eylül University, developing my skills in Full Stack Web Development.  
-I focus on building modern, scalable and user-friendly web applications using JavaScript/TypeScript, Node.js and React.
+I'm **Emir Mutlu**, a **Full Stack Web Developer**, **AI Developer** and **Computer Science student at Dokuz Eylül University**.
 
-Recently, I have been exploring the potential of blockchain and Web3 technologies to enhance my skillset.  
-My goal is to contribute to innovative projects and push the boundaries of technology through continuous learning.
+I build modern, scalable and user-friendly web applications using technologies such as **JavaScript, TypeScript, React and Node.js**.
+
+I'm also exploring **Artificial Intelligence, LLM-based applications and AI-powered software systems**, with a focus on combining modern web development with intelligent software.
+
+🌐 **Personal Portfolio:** [www.emirmutlu.com](https://www.emirmutlu.com/)
+
 
 ---
 
